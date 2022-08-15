@@ -1,10 +1,10 @@
 # ShrimpGrow
-## The Real Shrimp Shady's
+## The Real Shrimp Shady's!
 ### ShrimpGrow is set out to become the biggest and safest utility meme coin on the Binance Smart Chain. 
 ### We will continue to grow until we reach the top with marketing, utility and more! 🦐
 
 
-# Let's Go Shrimp's !
+# Let's Go Shrimp's!
 ## Become the King of Shrimps!
 ## 🦐 ShrimpGrow is a community driven decentralized meme token with a dedicated team, pushing and developing behind the scenes to make this the biggest Grow coin of 2022!
 
