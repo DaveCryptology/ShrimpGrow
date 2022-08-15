@@ -108,6 +108,8 @@ Please join us on Voice Chat and ask any questions you may have, the Developer w
 # Contact info
 contact@shrimpgrow.com
 
+# "Thank you for reading... Shrimptoshi!"
+
 
           
 
