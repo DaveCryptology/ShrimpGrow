@@ -69,6 +69,7 @@ Phase 4
 ▢ CEX Listing
 ▢ Roadmap 2.0
 
+
 # FAQ:
 ## Contract Address: 
 Token Contract (BEP-20) : 0x9b911e0efd7b7e9d781c8d20a6a6b32612ecea88
@@ -86,6 +87,14 @@ Access your wallet to Pancakeswap by clicking ‘Connect Wallet’ and selecting
 4. Swap BNB for $SGROW
 You can start swapping as soon as you have BNB available! Press ‘Select a currency’ and enter the $SGROW token address.
 
+## Marketing Plans:
+Our team is actively looking for the best ways to expand, grow and innovate our project, so please join us on Voice Chat to find out more about it! We’ll be excited to have you.
+
+## Liquidity Lock:
+Yes, the liquidity is locked for 90 days, you can check [here.](https://www.pinksale.finance/pinklock/record/1026363?chain=BSC)
+
+## Get in touch:
+Please join us on Voice Chat and ask any questions you may have, the Developer will always be on it. You can find us on [Telegram.](https://t.me/ShrimpGrow)
 
 
 
