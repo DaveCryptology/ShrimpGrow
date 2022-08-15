@@ -97,6 +97,17 @@ Yes, the liquidity is locked for 90 days, you can check [here.](https://www.pink
 Please join us on Voice Chat and ask any questions you may have, the Developer will always be on it. You can find us on [Telegram.](https://t.me/ShrimpGrow)
 
 
+# Follow Us
+[Website.](https://www.shrimpgrow.com/)
+[Telegram.](https://t.me/ShrimpGrow)
+[Twitter.](https://twitter.com/ShrimpGofficial)
+[Facebook.](https://www.facebook.com/profile.php?id=100084410895162)
+[Instagram.](https://www.instagram.com/shrimpgrow_insta/)
+[Reddit.](https://www.reddit.com/r/SHRIMPGROWOFFICIAL/?utm_medium=android_app&utm_source=share)
+
+
+# Contact info
+contact@shrimpgrow.com
 
 
           
