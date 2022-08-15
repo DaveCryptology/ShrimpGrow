@@ -10,9 +10,9 @@ Become the King of Shrimps!
 
 
 # Don’t miss the main gem of whole of your life!
-✅100% Organic Community
-✅Many Buying Contests
-✅Don't miss the main gem of whole of your life!
+## ✅100% Organic Community
+## ✅Many Buying Contests
+## ✅Don't miss the main gem of whole of your life!
 
 
 # Shrimp Grow Tokenomics:
@@ -39,34 +39,34 @@ We chose to launch on BSC to keep transaction fees low so you end up with more t
 
 # Roadmap
 ## Phase 1 Q3 2022
-☑ Roadmap
-☑ Social Media Setup
-☑ Website launch
-☑ Smart Contract Development
-☑ Launch on Pancakeswap
-☑ Liquidity Lock
-☑ First A.MA
+### ☑ Roadmap
+### ☑ Social Media Setup
+### ☑ Website launch
+### ☑ Smart Contract Development
+### ☑ Launch on Pancakeswap
+### ☑ Liquidity Lock
+### ☑ First A.MA
 
 ## Phase 2 Q3 2022
-☑ Marketing Campaigns
-☑ Buy Contests
-▢ Frequently A.M.A
-▢ CoinGecko Listing
-▢ CoinMarketCap Listing
-▢ ShrimpDAO
+### ☑ Marketing Campaigns
+### ☑ Buy Contests
+### ▢ Frequently A.M.A
+### ▢ CoinGecko Listing
+### ▢ CoinMarketCap Listing
+### ▢ ShrimpDAO
 
 ## Phase 3 Q4 2022
-▢ Advertising Campaign
-▢ ShrimpPad
-▢ Charity Donation
-▢ Various Partnerships
+### ▢ Advertising Campaign
+### ▢ ShrimpPad
+### ▢ Charity Donation
+### ▢ Various Partnerships
 
 ## Phase 4 Q4 2022
-▢ Boat Party
-▢ Team Expansion
-▢ Establish Legal Entity
-▢ CEX Listing
-▢ Roadmap 2.0
+### ▢ Boat Party
+### ▢ Team Expansion
+### ▢ Establish Legal Entity
+### ▢ CEX Listing
+### ▢ Roadmap 2.0
 
 
 # FAQ:
