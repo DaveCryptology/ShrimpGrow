@@ -16,9 +16,11 @@ Become the King of Shrimps!
 
 
 # Shrimp Grow Tokenomics:
-Total Supply: 1,000,000,000
-7% Taxes:  5% Liquidity Pool
-           2% Marketing
+##  Total Supply: 
+1,000,000,000
+## 7% Taxes:  
+5% Liquidity Pool
+2% Marketing
 
 
 # 1,000+ Active Member from Different Countries.
@@ -36,7 +38,7 @@ We chose to launch on BSC to keep transaction fees low so you end up with more t
 
 
 # Roadmap
-Phase 1
+## Phase 1 Q3 2022
 ☑ Roadmap
 ☑ Social Media Setup
 ☑ Website launch
@@ -45,8 +47,7 @@ Phase 1
 ☑ Liquidity Lock
 ☑ First A.MA
 
-Q3 2022
-Phase 2
+## Phase 2 Q3 2022
 ☑ Marketing Campaigns
 ☑ Buy Contests
 ▢ Frequently A.M.A
@@ -54,15 +55,13 @@ Phase 2
 ▢ CoinMarketCap Listing
 ▢ ShrimpDAO
 
-Q3 2022
-Phase 3
+## Phase 3 Q4 2022
 ▢ Advertising Campaign
 ▢ ShrimpPad
 ▢ Charity Donation
 ▢ Various Partnerships
 
-Q4 2022
-Phase 4
+## Phase 4 Q4 2022
 ▢ Boat Party
 ▢ Team Expansion
 ▢ Establish Legal Entity
